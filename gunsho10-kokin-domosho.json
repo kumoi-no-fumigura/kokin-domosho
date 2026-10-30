@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokin-domosho",
  "yomi": "こきんしゅうどうもうしょう",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈（古今集）",
+  "era": "室町中期",
+  "author": "一条兼良",
+  "desc": "一条兼良が古今和歌集について、顕注密勘と僻案抄に載らない事柄を拾って記した注釈書。仮名序の詞や巻十九・二十などの語句・故実を説く。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -302,6 +307,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
